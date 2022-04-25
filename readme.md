@@ -1,1 +1,1 @@
-![MiniMC Banner](https://minimc.nl/i/banner.png)
+![MiniMC Banner](https://minimc.nl/i/banner-dark.png)
